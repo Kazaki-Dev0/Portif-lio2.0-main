@@ -78,7 +78,7 @@ li{
     }
     .about{
         display: flex;
-        padding-right: 200px;
+        padding-right: 300px;
         justify-content: space-between;
         align-items: center;
         text-align: center;
@@ -89,7 +89,7 @@ li{
     .about-text{
         max-width: 480px;
         text-align: justify;
-        padding-left: 50px;
+        padding-left: 150px;
     }
     .eua{
         width: 100px;
@@ -176,3 +176,5 @@ li{
       display: flex;
       gap: 50px;
     } 
+
+
