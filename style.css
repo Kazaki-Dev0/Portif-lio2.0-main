@@ -259,5 +259,23 @@ li{
 }
 
 }
-
-
+.crono {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.crono img {
+  width: 100%;
+  height: 150px;
+  border-radius: 6px;
+}
+.task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.task img {
+  width: 100%;
+  height: 150px;
+  border-radius: 6px;
+}
